@@ -9,3 +9,5 @@ R: O desenvolvedor backend é aquele que fica com a parte da programação do si
 4)Qual a diferença entre frontend e designer?
 R: O frontend é quem desenvolve a parte web do sistema.
    O designer cria as imagens para serem implementadas no sistema,a parte gráfica, deixando mais bonito e chamativo.
+5)Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
+R:O responsável é o DBA, que controla toda a parte do banco de dados, armazenando la os dados e garantido a segurança do armazenamento.
