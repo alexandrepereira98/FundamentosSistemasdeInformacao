@@ -6,3 +6,6 @@ R:Os dados são coletados com os usuários do sistema, com as pessoas que pedira
 R: O desenvolvedor backend é aquele que fica com a parte da programação do sistema, com toda a parte burrocrática e inplementação das ideias.
    o desenvolvedor frontend é aquele que fica com toda a parte web do sistema, ele faz o sistema ficar bonito para o usuário, e tem como papel principal  deixar o sistema com uma boa usabilidade para o cliente.
    O desenvolvedor full stack é aquele que sabe fazer o backend e o frontend.
+4)Qual a diferença entre frontend e designer?
+R: O frontend é quem desenvolve a parte web do sistema.
+   O designer cria as imagens para serem implementadas no sistema,a parte gráfica, deixando mais bonito e chamativo.
