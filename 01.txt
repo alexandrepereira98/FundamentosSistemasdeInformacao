@@ -2,3 +2,7 @@
 R:O insumo ou entrada é tudo oque entra no sistema para ser processado, o sistema só utiliza o necessário.
 2)Onde podemos coletar dados para sistemas? Explique e cite exemplos.
 R:Os dados são coletados com os usuários do sistema, com as pessoas que pediram a construção do sistema, com suas opiniões e sugestões.
+3)Explique o que é um desenvolvedor backend, frontend, e full stack;
+R: O desenvolvedor backend é aquele que fica com a parte da programação do sistema, com toda a parte burrocrática e inplementação das ideias.
+   o desenvolvedor frontend é aquele que fica com toda a parte web do sistema, ele faz o sistema ficar bonito para o usuário, e tem como papel principal  deixar o sistema com uma boa usabilidade para o cliente.
+   O desenvolvedor full stack é aquele que sabe fazer o backend e o frontend.
