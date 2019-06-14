@@ -1,0 +1,2 @@
+1)O que é o insumo, ou entrada, em um sistema de informação?
+R:O insumo ou entrada é tudo oque entra no sistema para ser processado, o sistema só utiliza o necessário.
