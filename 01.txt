@@ -1,2 +1,4 @@
-1)O que � o insumo, ou entrada, em um sistema de informa��o?
-R:O insumo ou entrada � tudo oque entra no sistema para ser processado, o sistema s� utiliza o necess�rio.
+1)O que é o insumo, ou entrada, em um sistema de informação?
+R:O insumo ou entrada é tudo oque entra no sistema para ser processado, o sistema só utiliza o necessário.
+2)Onde podemos coletar dados para sistemas? Explique e cite exemplos.
+R:Os dados são coletados com os usuários do sistema, com as pessoas que pediram a construção do sistema, com suas opiniões e sugestões.
