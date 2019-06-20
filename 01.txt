@@ -31,3 +31,5 @@ R: análize de requisitos: é a extração de dados do cliente.
    
 10)Explique para que serve e as principais funcionalidades do Trello.
 R: No trello você adiciona quadros, com suas tarefas, você pode criar seu time, que irá lhe ajudar nas tarefas, ele possui três quadros( a fazer, fazendo, feito) la pode-se escolher as atividades que deseja fazer, lembrando que o correto é fazer uma por vez, para não embarralhar as tarefas.
+11)Explique para que serve e as principais funcionalidades do Slack.
+R: o slack serve para compartilhar seus códigos com seus amigos que estão programando junto, tambem serve como meio de se comunicar a respeito do software que está sendo desenvolvido ou corrigido, com uma facilidade incrivel,de forma totalmente segura, pode criar grupos para conversa como pode conversar individualmente.
