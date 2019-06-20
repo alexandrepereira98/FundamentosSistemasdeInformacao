@@ -19,3 +19,12 @@ R:Que no GitHub varias pessoa podem ver seus códigos, identificar possiveis err
 
 8)Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
 R: o fluxo de trabalho funciona de acordo com a necessidade do usuário, ele altera as etapas de suas tarefas, ele pode deixar tarefas a fazer, as tarefas que ele está fazendo no momento e as tarefas ja feitas por ele, isso deixa suas tarefas mais organizadas, e lembrando que o correto é fazer uma tarefa por vez, agilizando o seu dia a dia.
+9)Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
+R: análize de requisitos: é a extração de dados do cliente.
+   especificação:é a tarefa de descrever precisamente o software, de uma forma matemática rigorosa.
+   arquitetura do software:é a representação abstrata daquele sistema, é a garantia que o software irá ao encontro dos requisitos do sistema.
+   implementação:transforma um projeto para um código e deve ser a parte mais evidente do trabalho da engenharia de software.
+   teste:se define como a parte de testes do sistema, mais específico na parte onde o software foi desenvolvido por mais de um engenheiro.
+   documentação:a documentação é uma importante tarefa do projeto do software para propósitos  de futuras manutenções e aprimoramentos.
+   suporte e treinamento:se define em treinar os usuários do sistema para que eles saibam como funciona o software e desenvolver um trabalho mais rápido, agilizando seu dia a dia.
+   manutenção:se define em corrigir erros surgidos no sitema depois de instalado no cliente, buscando deixar sempre atualizado o sistema, sem falhas.
