@@ -11,3 +11,6 @@ R: O frontend é quem desenvolve a parte web do sistema.
    O designer cria as imagens para serem implementadas no sistema,a parte gráfica, deixando mais bonito e chamativo.
 5)Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 R:O responsável é o DBA, que controla toda a parte do banco de dados, armazenando la os dados e garantido a segurança do armazenamento.
+6)Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
+R: Ela registra eletrônicamente as operações tributárias dos empreendimentos,tem uma válidade jurídica que é assegurada pela assinatura digital da empresa emitente e pela autorização prévia de uso pela administração tributária do estado responsável pelo recolhimento do tributo,a troca da antiga nota fiscal pela nova nota fiscal eletrônica proporcionou inúmeras vantagens,como(a exclusão das notas de papel, a facilitando o dia a dia do trabalhador).Nela são armazenados todas as informações do cliente e do emitente, esses dados são armazenados online, no site da receita, ficando diponivel para pesquisas por ate 180 dias.
+Ela reduz o impacto ambiental por nao ser mais de papel,reduz o tempo de entrega das mercadorias, diminui os custos com a impressão, incentiva o comércio eletrônico, aumenta a segurança e credibilidade, amplia o controle fiscal.
