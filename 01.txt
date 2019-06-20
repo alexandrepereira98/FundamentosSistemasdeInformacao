@@ -16,3 +16,6 @@ R: Ela registra eletrônicamente as operações tributárias dos empreendimentos
 Ela reduz o impacto ambiental por nao ser mais de papel,reduz o tempo de entrega das mercadorias, diminui os custos com a impressão, incentiva o comércio eletrônico, aumenta a segurança e credibilidade, amplia o controle fiscal.
 7)Quais os benefícios em versionar código fonte em ambientes como o GitHub?
 R:Que no GitHub varias pessoa podem ver seus códigos, identificar possiveis erros e avisar o criador para corrigir o problema, assim todos se ajudam, porque ali podem ser compartilhados códigos fonte.
+
+8)Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
+R: o fluxo de trabalho funciona de acordo com a necessidade do usuário, ele altera as etapas de suas tarefas, ele pode deixar tarefas a fazer, as tarefas que ele está fazendo no momento e as tarefas ja feitas por ele, isso deixa suas tarefas mais organizadas, e lembrando que o correto é fazer uma tarefa por vez, agilizando o seu dia a dia.
